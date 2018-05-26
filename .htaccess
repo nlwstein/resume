@@ -1,0 +1,4 @@
+order allow,deny
+<Files ~ "\.(html|js|css)$">
+   allow from all
+</Files>
